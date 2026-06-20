@@ -7,3 +7,4 @@ aptPkgs = ["nodejs", "npm"]
 [deploy]
 startCommand = "python bot.py"
 restartPolicyType = "on_failure"
+
