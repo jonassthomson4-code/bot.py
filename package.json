@@ -1,11 +1,8 @@
 {
-  "name": "whatsapp-checker-railway",
-  "version": "3.0.0",
+  "name": "whatsapp-checker",
+  "version": "4.2.0",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.6.0",
     "pino": "^8.19.0"
-  },
-  "engines": {
-    "node": ">=18"
   }
 }
